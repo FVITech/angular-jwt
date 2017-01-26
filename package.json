@@ -1,0 +1,14 @@
+{
+  "name": "angular-jwt-authentication-example",
+  "version": "1.0.0",
+  "description": "angular-jwt-authentication-example ==============================",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server ./ -a localhost -p 8000 -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
